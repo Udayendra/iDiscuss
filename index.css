@@ -1,0 +1,11 @@
+
+
+.carousel img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.card-body .text-title{
+    color: rgb(25, 25, 31);
+    text-decoration: none;
+}
